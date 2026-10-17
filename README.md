@@ -1,6 +1,6 @@
 # Sonar: Rock vs Mine Classification
 
-A machine learning project that classifies a sonar return as a **rock (R)** or a **metal mine (M)** from 60 frequency-band energy readings. It covers the full workflow: data exploration, model comparison, final evaluation, a saved model, and a small web demo.
+A machine learning project that classifies a sonar return as a **rock (R)** or a **metal mine (M)** from 60 frequency-band energy readings. It covers the full workflow: data exploration, model comparison, final evaluation, a saved model, and a small demo at the end of the notebook.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Marwan-Aly-Mohamed/SONAR-Rock-vs-Mine-Prediction/blob/main/notebooks/SONAR_Rock_vs_Mine_Prediction.ipynb)
 
