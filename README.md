@@ -81,16 +81,6 @@ jupyter notebook notebooks/SONAR_Rock_vs_Mine_Prediction.ipynb
 
 When running locally, change the data path in the notebook from `/content/Dataset.csv` to `../data/Dataset.csv`.
 
-## Demo app
-
-The notebook includes a small Gradio app: paste 60 comma-separated sonar values and it returns **Rock** or **Mine** with the probability of a mine.
-
-```bash
-python app/app.py
-```
-
-Note: the saved `.joblib` model should be loaded with the same scikit-learn version it was trained with (see `requirements.txt`).
-
 ## Tech stack
 
 Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, Gradio.
